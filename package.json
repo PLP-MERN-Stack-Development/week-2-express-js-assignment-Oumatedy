@@ -1,0 +1,14 @@
+{
+  "name": "week-2-express-js-assignment-Oumatedy",
+  "version": "1.0.0",
+  "description": "Express.js RESTful API assignment",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "uuid": "^9.0.1"
+  }
+}
